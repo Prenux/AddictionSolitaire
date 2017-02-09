@@ -1,0 +1,15 @@
+* {
+    font-size: 24px;
+}
+
+td {
+    table-layout: fixed;
+    width: 70px;
+    text-align: center;
+    vertical-align: center;
+}
+
+img {
+    vertical-align: middle;
+    width: 100%;
+}
